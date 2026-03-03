@@ -13,14 +13,13 @@ title: Bin Cai Academic Portfolio
 description: "My Professional Site"
 year: 2026
 author: Cyclone Bin
-bio:"Bin Cai is a Postdoc Researcher in the Department of Civil, Construction, and Environmental Engineering. Her research focuses
-on Structural Engineering"
+bio:"Bin Cai is a Postdoc Researcher in the Department of Civil, Construction, and Environmental Engineering. Her research focuses on Structural Engineering"
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
-github_profile:
-department:
+image: /assets/img/Photos.jpg
+email: binc@iastat.edu
+github_profile: https://bincai01.github.io/bincai__profile/
+department: https://www.ccee.iastate.edu/
 orcid:
 cv:
 
