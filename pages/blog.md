@@ -1,6 +1,6 @@
 ---
-title: Blog
-nav: Blog
+title: News
+nav: News
 nav_order: 4
 ---
   
