@@ -23,8 +23,8 @@ Bin Cai *strcutural Engineering*
 ## Teaching and Mentoring Experiences
 
 
-
-
+## Recent News
+{% include blog-reel.html = "https://youtu.be/SWVjQsvQocA" alt="a recent test on the UHPC connection" caption = "a recent test on the UHPC connection" %} 
 
 
 
