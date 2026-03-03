@@ -17,7 +17,7 @@ Bin Cai *strcutural Engineering*
 - 
 ## Education
 
-[Iowa State University CCEE] (https://www.ccee.iastate.edu/)
+[Iowa State University CCEE](https://www.ccee.iastate.edu/)
 
 
 ## Teaching and Mentoring Experiences
