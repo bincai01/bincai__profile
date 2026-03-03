@@ -1,6 +1,35 @@
 ---
-title: Academic Portfolio Template
+title: About Me 
 ---
+## Biography
+Bin Cai *strcutural Engineering*
+**nonlinear analysis**
+
+## Research Interests
+
+- Experiemntal Analysis
+- Numerical Analysis
+- Precast Prestressed Concrete Structure Design
+- Wind Energy
+---
+
+- Bridge Engineering
+- 
+## Education
+
+[Iowa State University CCEE] (https://www.ccee.iastate.edu/)
+
+
+## Teaching and Mentoring Experiences
+
+
+
+
+
+
+
+
+
 
 Write pages in Markdown.
 
